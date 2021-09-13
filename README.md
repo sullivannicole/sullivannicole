@@ -6,4 +6,4 @@
 - 📫 How to reach me: nicasull@gmail.com
 - ⚡ Fun fact: I lived in the country of Georgia for a year as an English teacher
 
-<center>![visitors](https://visitor-badge.glitch.me/badge?page_id=sullivannicole.sullivannicole&left_color=green&right_color=red)</center>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=sullivannicole.sullivannicole&left_color=green&right_color=red)
