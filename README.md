@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-- I’m currently working on a treatment stratification tool using Bayesian networks and causal trees for inference
--  🔭 I’m currently learning about astrophysics!
-- 💬  Ask me about the west Twin Cities
-- ⚡ Fun fact: I lived in the country of Georgia for a year as an English teacher
+- I’m currently an R&D data scientist at OptumLabs
+- I'm passionate about human health and creating system-level impacts on healthcare delivery in th US!
+- I'm also a student at the U of MN in the data science master's program, minoring in data science in multi-messenger astrophysics...because, why not?
+
+Email: sull1120@umn.edu for UMN-related stuff or nicolesullivan@optum.com for health-related stuff
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=sullivannicole.sullivannicole&left_color=green&right_color=red)
